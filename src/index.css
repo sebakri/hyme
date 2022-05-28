@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Victor Mono Italic';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: url('/node_modules/.pnpm/@fontsource+victor-mono@4.5.4/node_modules/@fontsource/victor-mono/files/victor-mono-latin-500-italic.css') format('css'), url('/node_modules/.pnpm/@fontsource+victor-mono@4.5.4/node_modules/@fontsource/victor-mono/files/victor-mono-latin-500-italic.woff') format('woff');
+}
